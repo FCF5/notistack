@@ -19,7 +19,7 @@ const styles = {
         backgroundColor: '#313131',
     },
     success: {
-        backgroundColor: '#43a047',
+        backgroundColor: '#164A41',
     },
     error: {
         backgroundColor: '#d32f2f',

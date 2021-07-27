@@ -30,7 +30,7 @@ const styles = (theme: Theme) => {
             paddingLeft: 8 * 2.5,
         },
         variantSuccess: {
-            backgroundColor: '#43a047', // green
+            backgroundColor: '#164A41', // green
             color: '#fff',
         },
         variantError: {
